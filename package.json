@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "strat": "node server.js"
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "",
